@@ -20,7 +20,7 @@ Enter your choice  : 1
 
 Enter Name         : adithya
 
-Enter Phone Number : 9908799779
+Enter Phone Number : 9988776655
 
 Enter Email        : adi@gmail.com
 
