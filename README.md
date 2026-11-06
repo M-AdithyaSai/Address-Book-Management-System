@@ -30,7 +30,7 @@ A menu-driven **Address Book Management System** developed using C programming. 
 ## 📂 Project Structure
 
 ```text
-AddressBook-NewDesign/
+AddressBook/
 │
 ├── main.c          # Main function and menu-driven interface
 ├── contact.c       # Contact listing, sorting and initialization
